@@ -5,6 +5,8 @@ Supplementary material: "Neurobiologically and Computationally Informed Hypothes
 Ryan Calmus, Benjamin Wilson, Yukiko Kikuchi & Christopher I. Petkov
 Newcastle University Medical School, Framlington Place, Newcastle upon Tyne, UK
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464607.svg)](https://doi.org/10.5281/zenodo.3464607)
+
 ________________________________________________________________________________________________________________________
 
 The supplementary material in this folder comprises additional explanatory text, code and figures that together walk the reader through key VSA concepts referred to within the paper.
